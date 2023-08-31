@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8be03b1e1dfa464391efc09f6593dab9, type: 3}
+  m_Name: UISettings
+  m_EditorClassIdentifier: 
+  PanelSettings:
+  - PanelId: Lobby
+    Panel: {fileID: 4162182385968428842, guid: 2523e871d4d60c244830eee6b8f3a3c0, type: 3}
+  - PanelId: Info
+    Panel: {fileID: 8018543487576366566, guid: abd4fff659865ca4a811ddbdf41aef4d, type: 3}
+  - PanelId: Shop
+    Panel: {fileID: 8347994063007204138, guid: a8df86b67a8b2c647a2ce0836a80d1b3, type: 3}
+  - PanelId: Confirm
+    Panel: {fileID: 4758118556425757173, guid: 7cfc56269256a6144b13840342f95672, type: 3}
+  - PanelId: Announcement
+    Panel: {fileID: -8266904791455427903, guid: 9edd6c8e30f424749bcadf7b2a0bf5cd, type: 3}
+  - PanelId: ActivityDetailPanel
+    Panel: {fileID: -6024436508400760459, guid: 2d5de82ea896d2946a80d85894c39ba2, type: 3}
+  - PanelId: SettingPanel
+    Panel: {fileID: 8747015430468808046, guid: b57a57ac252e20845af062fd188dfcb0, type: 3}
+  - PanelId: FriendPanel
+    Panel: {fileID: -6024436508400760459, guid: 87e8df5f752bf5d4abb47bc643716e8a, type: 3}
